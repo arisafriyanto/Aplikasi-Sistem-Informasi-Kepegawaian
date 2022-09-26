@@ -1,6 +1,6 @@
 # Aplikasi Sistem Informasi Kepegawaian
 
-Aplikasi Sistem Informasi Kepegawaian ini dibuat dengan PHP native dan template stisla, kebutuhan utama aplikasi ini adalah untuk 
+Aplikasi Sistem Informasi Kepegawaian ini dibuat dengan PHP native dan template bootstrap, kebutuhan utama aplikasi ini adalah untuk 
 management sistem informasi kepegawaian tingkat kecamatan, aplikasi ini mempunyai 3 hak akses yaitu admin, camat, pegawai.
 
 Terdapat beberapa menu - menu utama dari aplikasi ini:
